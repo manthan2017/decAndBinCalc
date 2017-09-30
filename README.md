@@ -1,1 +1,1 @@
-This is an attempt to make a binary calculator and a decimal calculator in javascript.
+This is a web based binary calculator and a decimal calculator in javascript.
